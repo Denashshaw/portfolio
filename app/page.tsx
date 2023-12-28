@@ -4,7 +4,6 @@ import Link from "next/link";
 export default function Home() {
   return (
     <main>
-      {/* <div className="text-center">My own portfolio</div> */}
       <nav>
         <ul className="flex justify-around mt-12">
           <li>
